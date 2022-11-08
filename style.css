@@ -166,14 +166,14 @@ button {
   margin-bottom: 96px;
 }
 
+.section__list {
+  margin: 100px 0;
+}
+
 .list-wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 61px;
-}
-
-.section__list {
-  margin: 100px 0;
 }
 
 .section__card {
